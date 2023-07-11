@@ -68,7 +68,7 @@ namespace RDPEmpowerWeston_1
 		/// <param name="engine">Link with SLAutomation process.</param>
 		public void Run(IEngine engine)
 		{
-			engine.GenerateInformation("hi it's me");
+			engine.GenerateInformation("rene is a bad manager");
 		}
 	}
 }
